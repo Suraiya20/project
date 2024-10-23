@@ -1,0 +1,18 @@
+body{
+    background-color;#ffeaa7;
+	margin:0 auto;
+	}
+	div{
+		max-width:800px;
+		background-color:#eeeef7;
+		margin:auto;
+		border:1px solid green;
+		padding:20px;
+	}
+header,footer{
+	background-color:#95afc0;
+	color:white
+	text-align:center;
+	padding:15px;
+}
+
